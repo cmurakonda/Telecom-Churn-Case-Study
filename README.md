@@ -1,5 +1,5 @@
 # Telecom-Churn-Case-Study
-Telecom Churn Case Study
+Telecom Churn Case Study using XGBoost
 
 Some of the steps that you can use are as follows:
 
